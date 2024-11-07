@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: aqua;
+}
+a {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #1a73e8;
+    text-decoration: none;
+    padding: 20px 20px;
+}

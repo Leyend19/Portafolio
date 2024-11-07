@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+form {
+    background-color: aqua;
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+input {
+    padding: 15px;
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+.mensaje {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
